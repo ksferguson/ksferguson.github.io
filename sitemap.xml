@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ksferguson.github.io/</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://ksferguson.github.io/writing-samples/</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://ksferguson.github.io/blog/</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://ksferguson.github.io/blog/2024/12/20/personal-blog-with-mkdocs-and-githubio/</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://ksferguson.github.io/blog/archive/2024/</loc>
+         <lastmod>2024-12-21</lastmod>
+    </url>
+</urlset>
