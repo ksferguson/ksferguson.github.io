@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fergusonanalytics.com/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/client-stories/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2025/07/13/the-great-ai-feature-convergence/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/the-great-ai-feature-convergence/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2025/07/04/the-ai-strategy-thats-killing-startups/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/the-ai-strategy-thats-killing-startups/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2025/04/05/ai-powered-slide-decks-in-under-an-hour/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/ai-powered-slide-decks-in-under-an-hour/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2025/01/27/essential-ai-tools-for-modern-software-engineers-a-practical-guide/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/essential-ai-tools-for-modern-software-engineers-a-practical-guide/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2025/01/15/the-executives-guide-to-building-your-ai-toolstack-a-progressive-approach/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/exec-ai-tools-guide/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2025/07/02/houston-ai-tech-and-startup-events/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/houston-ai-tech-and-startup-events/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/2024/12/20/personal-blog-with-mkdocs-and-githubio/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <loc>https://fergusonanalytics.com/blog/personal-blog-with-mkdocs-and-githubio/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/archive/2025/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-20</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/archive/2024/</loc>
-         <lastmod>2025-07-14</lastmod>
+         <lastmod>2025-07-20</lastmod>
+    </url>
+    <url>
+         <loc>https://fergusonanalytics.com/blog/category/ai-strategy/</loc>
+         <lastmod>2025-07-20</lastmod>
     </url>
 </urlset>
