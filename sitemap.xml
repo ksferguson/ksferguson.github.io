@@ -2,54 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fergusonanalytics.com/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/client-stories/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
+    </url>
+    <url>
+         <loc>https://fergusonanalytics.com/tags/</loc>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/ai-feature-convergence/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/ai-models-startups/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/ai-slides-guide/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
+    </url>
+    <url>
+         <loc>https://fergusonanalytics.com/blog/aieo-search-guide/</loc>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/dev-ai-tools-guide/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/exec-ai-tools-guide/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/houston-ai-events/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/mkdocs-blog-guide/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/archive/2025/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
          <loc>https://fergusonanalytics.com/blog/archive/2024/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <lastmod>2025-07-28</lastmod>
     </url>
     <url>
-         <loc>https://fergusonanalytics.com/blog/category/ai-strategy/</loc>
-         <lastmod>2025-07-20</lastmod>
+         <loc>https://fergusonanalytics.com/blog/category/executives/</loc>
+         <lastmod>2025-07-28</lastmod>
+    </url>
+    <url>
+         <loc>https://fergusonanalytics.com/blog/category/consultants/</loc>
+         <lastmod>2025-07-28</lastmod>
+    </url>
+    <url>
+         <loc>https://fergusonanalytics.com/blog/category/investors/</loc>
+         <lastmod>2025-07-28</lastmod>
+    </url>
+    <url>
+         <loc>https://fergusonanalytics.com/blog/category/builders/</loc>
+         <lastmod>2025-07-28</lastmod>
     </url>
 </urlset>
